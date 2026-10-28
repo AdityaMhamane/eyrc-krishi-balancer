@@ -6,7 +6,7 @@
 [![Simulation](https://img.shields.io/badge/Simulation-CoppeliaSim-red?style=flat-square)](https://www.coppeliarobotics.com)
 [![CAD](https://img.shields.io/badge/CAD-Autodesk%20Fusion%20360-blueviolet?style=flat-square)](https://www.autodesk.com/products/fusion-360)
 
-> An autonomous, self-balancing mobile robot with an onboard manipulator capable of dynamic upright stability, tight path navigation, and pick-and-place delivery under external disturbances.
+> Anelf-balancing mobile robot with an onboard manipulator capable of dynamic upright stability, tight path navigation, and pick-and-place delivery under external disturbances.
 
 ---
 
